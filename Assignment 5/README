@@ -2,4 +2,5 @@ In Python folder: all notebooks required to replicate graphs and maps submitted 
 >> Geocoding Notebook included for information. 
 >> 500 cities ntoebook requires separately downloading data from https://chronicdata.cdc.gov/browse?category=500+Cities
 In FOIA data folder: csv file used in majority of python notebooks. 
->> Not included, but available upon request: original csv files, pre-geocoding and pre-re-coding of several variables. 
+>> Not included, but available upon request: documentation of geo-coding and re-coding of several variables
+>> Not included: raw data 
